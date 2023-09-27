@@ -1,0 +1,4 @@
+<?php
+
+$handel =fopen("C:\\xampp\\htdocs\\fopenfile","w");
+?>
